@@ -8,7 +8,7 @@ masking noise in real time: louder room -> louder noise, quiet room -> nearly si
 let you tune how it reacts and how it sounds.
 
 **This is masking, not noise cancelling.** It does not remove sound from the room and it does not
-need ANC headphones — it simply adds a pleasant noise floor that makes other sounds less noticeable.
+need ANC headphones. It simply adds a pleasant noise floor that makes other sounds less noticeable.
 No audio is recorded or stored.
 
 - Language: Kotlin
