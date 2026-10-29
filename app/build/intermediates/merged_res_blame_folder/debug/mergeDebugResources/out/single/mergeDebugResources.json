@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.howard.noisemasker.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "com.howard.noisemasker.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\9.0.0\\com.howard.noisemasker.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\9.0.0\\com.howard.noisemasker.app-main-33:\\layout\\activity_main.xml"
+    }
+]

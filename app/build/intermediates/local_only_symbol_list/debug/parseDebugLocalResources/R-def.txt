@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+id attackLabel
+id attackSeek
+id baseVolLabel
+id baseVolSeek
+id hpCutoffLabel
+id hpCutoffSeek
+id inputLevelText
+id logScaleLabel
+id logScaleSeek
+id maxVolLabel
+id maxVolSeek
+id preampLabel
+id preampSeek
+id releaseLabel
+id releaseSeek
+id rmsWeightLabel
+id rmsWeightSeek
+id sourceText
+id startButton
+id statusText
+id stopButton
+id volScaleLabel
+id volScaleSeek
+id warmCutoffLabel
+id warmCutoffSeek
+layout activity_main
+string app_name
+style Theme.NoiseMaskerAndroid
